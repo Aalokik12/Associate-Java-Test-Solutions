@@ -23,12 +23,13 @@ To run tests (using JUnit 5):
 Make sure junit-platform-console-standalone is available in your classpath.
 
 bash
-Copy
-Edit
+
 cd test
 javac -cp .:../src:junit-platform-console-standalone-1.9.3.jar IncomeTaxCalculatorTest.java
+
 java -jar junit-platform-console-standalone-1.9.3.jar --class-path .:../src --scan-classpath
-💡 If you are using an IDE like IntelliJ or Eclipse, you can run each test class directly.
+
+ If you are using an IDE like IntelliJ or Eclipse, you can run each test class directly.
 
 You can compile and run solution files from the src/ folder or run tests using any JUnit-compatible tool or IDE.
 
