@@ -1,4 +1,4 @@
-Associate Java Test Solutions
+## Associate Java Test Solutions
 
 
 This repository contains Java solutions for the Associate Java Test, organized in two main folders: src/ and test/. The src/ folder includes individual class files with the names of the files as the function they perform according to the problem, each solving a specific problem. The test/ folder contains corresponding JUnit 5 test files to validate each solution.
