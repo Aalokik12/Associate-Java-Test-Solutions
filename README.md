@@ -15,6 +15,8 @@ All files follow a clean and modular structure, with separate classes for logic 
 
 ### To compile and run a specific solution:
 
+Example - 
+
 ```bash```
 cd src
 javac IncomeTaxCalculator.java
